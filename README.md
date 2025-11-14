@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Updated & Clean UI)
+## 🛠️ Tech Stack 
 
 ### 💻 Languages
 <p>
@@ -58,7 +58,7 @@
 
 ---
 
-## 📄 Download My Resume (Improved UI)
+## 📄 Download My Resume 
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1ohdiMjCaRd7CwY9YXLa9lBiF17KAyw_J/view?usp=drivesdk" target="_blank">
@@ -88,7 +88,7 @@
 ---
 ---
 
-## 🏆 Achievements (New Section)
+## 🏆 Achievements 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ANSHU067&theme=tokyonight&no-frame=true&row=1&column=6" />
