@@ -61,7 +61,7 @@
 ## 📄 Download My Resume 
 
 <p align="center">
-  <a href= "https://drive.google.com/file/d/146VjMwjAB5_PnnVXwZ3ttVsXFh5Dr5B1/view?usp=drivesdk"target="_blank">
+  <a href= "https://drive.google.com/file/d/1o-LSNT3Ew-eI0PpGxRzDui5OaZA57518/view?usp=drivesdk"target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-1f6feb?style=for-the-badge&logo=googledocs&logoColor=white"/>
   </a>
 </p>
