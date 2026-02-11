@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 Hi 👋, I'm Anshu Sonkar</h1>
+<h1 align="center">🚀 Hi 👋, I'm Anshu Sonkar</h1>
 <h3 align="center">Frontend Developer | UI/UX Enthusiast | Tech Explorer</h3>
 
 <div align="center">
@@ -12,20 +12,20 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 Passionate about creating **clean, responsive & interactive UIs**
-- 🌱 Currently learning **React + Modern Web Design**
-- 📂 All my projects → **[GitHub Portfolio](https://github.com/ANSHU067)**
-- ⚡ Fun fact: I love turning ideas into **smooth UI experiences!**
+- 🔥 Passionate about building **clean, responsive, and interactive user interfaces**
+- 🌱 Currently learning **React** and **modern web design practices**
+- 📂 Check out my projects on **[GitHub](https://github.com/ANSHU067)**
+- ⚡ Fun fact: I love turning ideas into **smooth, engaging UI experiences**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anshu-sonkar-671b0a2a4/">
+  <a href="https://www.linkedin.com/in/anshu-sonkar-671b0a2a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_x__067/?hl=en">
+  <a href="https://www.instagram.com/_x__067/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:anshusonkar045@gmail.com">
@@ -68,26 +68,23 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANSHU067&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ANSHU067&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 💡 General Stats 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ANSHU067&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANSHU067&theme=radical" />
+  <br/>
 
 ### 🎯 Top Languages
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSHU067&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANSHU067&theme=tokyonight" />
 </p>
 
-
+### 📈 Profile Details
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANSHU067&theme=tokyonight" />
+</p>
 
 ---
 
